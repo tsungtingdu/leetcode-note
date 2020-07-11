@@ -7,7 +7,7 @@ My leetcode profile: [LINK](https://leetcode.com/canopus/)
 ***
 ### Category
 
-* [Array]()
+* [Array](https://github.com/tsungtingdu/leetcode-note/blob/master/array.md)
 
 ***
 ### Author
