@@ -1,5 +1,13 @@
 # Array
 
+### [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+> Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+
+* simulation (what I did), but using "direction matrix"
+* layer-by-layer
+* transpose array (!)
+
+***
 ### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 > Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
@@ -8,6 +16,11 @@
 You may assume that nums1 has enough space (size that is equal to m + n) to hold additional elements from nums2.
 
 * start from the end of final array
+***
+
+### [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+> Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+
 ***
 ### [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
@@ -33,6 +46,14 @@ You may assume that nums1 has enough space (size that is equal to m + n) to hold
 > Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
 
 * create "tag" on current value! (so no need to create another array for comparision)
+
+***
+### [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+
+> Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.
+
+* diagonal Iteration first, then reverse
+* simulation (like what I did)
 
 ***
 ### [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
