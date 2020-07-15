@@ -8,6 +8,11 @@
 * transpose array (!)
 
 ***
+### [67. Add Binary](https://leetcode.com/problems/add-binary/)
+> Given two binary strings, return their sum (also a binary string).
+> The input strings are both non-empty and contains only characters 1 or 0
+
+***
 ### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 > Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
@@ -20,6 +25,7 @@ You may assume that nums1 has enough space (size that is equal to m + n) to hold
 
 ### [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 > Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+* try not to use too much space
 
 ***
 ### [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
