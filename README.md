@@ -9,6 +9,7 @@ My leetcode profile: [LINK](https://leetcode.com/canopus/)
 
 * [Array](https://github.com/tsungtingdu/leetcode-note/blob/master/array.md)
 * [Graph](https://github.com/tsungtingdu/leetcode-note/blob/master/graph.md)
+* [Recursion](https://github.com/tsungtingdu/leetcode-note/blob/master/recursion.md)
 
 ***
 ### Author
