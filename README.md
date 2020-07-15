@@ -8,6 +8,7 @@ My leetcode profile: [LINK](https://leetcode.com/canopus/)
 ### Category
 
 * [Array](https://github.com/tsungtingdu/leetcode-note/blob/master/array.md)
+* [Graph](https://github.com/tsungtingdu/leetcode-note/blob/master/graph.md)
 
 ***
 ### Author
