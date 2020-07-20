@@ -8,7 +8,7 @@ My leetcode profile: [LINK](https://leetcode.com/canopus/)
 ### Category
 
 * [Array](https://github.com/tsungtingdu/leetcode-note/blob/master/array.md)
-* [Dynamic Programming](https://github.com/tsungtingdu/leetcode-note/blob/master/db.md)
+* [Dynamic Programming](https://github.com/tsungtingdu/leetcode-note/blob/master/dp.md)
 * [Graph](https://github.com/tsungtingdu/leetcode-note/blob/master/graph.md)
 * [Recursion](https://github.com/tsungtingdu/leetcode-note/blob/master/recursion.md)
 * [Stack](https://github.com/tsungtingdu/leetcode-note/blob/master/stack.md)
